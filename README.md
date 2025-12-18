@@ -7,6 +7,7 @@
 
 # Element Android ManaGap Temp tmp
 
+
 Element Classic Android is a previous-generation [Matrix](https://matrix.org/) client provided by [Element](https://element.io/). The app can be run on every Android devices with Android OS Lollipop and more (API 21). This client is still supported and receives security updates but no new features or usability enhancements are made. It is recommended to use [Element X](https://github.com/element-hq/element-x-android) that is the next-generation mobile app.
 
 [<img src="resources/img/google-play-badge.png" alt="Get it on Google Play" height="60">](https://play.google.com/store/apps/details?id=im.vector.app)

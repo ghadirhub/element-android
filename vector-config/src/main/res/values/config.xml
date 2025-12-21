@@ -4,7 +4,8 @@
     <!-- "app_name" is now defined in build.gradle -->
 
     <!-- server urls -->
-    <string name="matrix_org_server_url" translatable="false">https://matrix.org</string>
+    <!-- <string name="matrix_org_server_url" translatable="false">https://matrix.org</string> -->
+    <string name="matrix_org_server_url" translatable="false">https://matrix.managap.ir</string>
 
     <!-- Rageshake configuration -->
     <string name="bug_report_url" translatable="false">https://rageshakes.element.io/api/submit</string>
@@ -29,19 +30,21 @@
     <string name="preferred_jitsi_domain" translatable="false">meet.element.io</string>
 
     <string-array name="room_directory_servers" translatable="false">
-        <item>matrix.org</item>
-        <item>gitter.im</item>
+        <item>matrix.managap.ir</item>
+        <!-- <item>matrix.org</item> -->
+        <!-- <item>gitter.im</item> -->
     </string-array>
 
     <!-- Permalink config -->
     <string-array name="permalink_supported_hosts" translatable="false">
         <!-- Regular Element Web instance -->
-        <item>app.element.io</item>
+        <!-- <item>app.element.io</item> -->
+        <item>web.managap.ir</item>
         <!-- Other known instances of Element Web -->
-        <item>develop.element.io</item>
-        <item>staging.element.io</item>
+        <!-- <item>develop.element.io</item> -->
+        <!-- <item>staging.element.io</item> -->
         <!-- Previous Web instance, kept for compatibility reason -->
-        <item>riot.im</item>
+        <!-- <item>riot.im</item> -->
     </string-array>
 
 </resources>

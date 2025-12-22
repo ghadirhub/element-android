@@ -259,7 +259,7 @@ android {
             postprocessing {
                 // FIXME Set to true.
                 removeUnusedCode false
-                removeUnusedResources true
+                removeUnusedResources false
                 // We do not activate obfuscation as it makes it hard then to read crash reports, and it's a bit useless on an open source project :)
                 obfuscate false
                 optimizeCode false

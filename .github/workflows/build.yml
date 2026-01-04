@@ -3,7 +3,7 @@ name: APK Build
 on:
   pull_request: { }
   push:
-    branches: [ main, develop, managap ]
+    branches: [ main, develop, managap, mandegar ]
 
 # Enrich gradle.properties for CI/CD
 env:
@@ -100,7 +100,7 @@ jobs:
       - name: Upload F-Droid Release APK
         uses: actions/upload-artifact@v4
         with:
-          name: managap-fdroid-release
+          name: mandegar-fdroid-release
           path: |
             vector-app/build/outputs/apk/fdroid/release/*.apk
 

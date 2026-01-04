@@ -5,7 +5,7 @@
 
     <!-- server urls -->
     <!-- <string name="matrix_org_server_url" translatable="false">https://matrix.org</string> -->
-    <string name="matrix_org_server_url" translatable="false">https://matrix.managap.ir</string>
+    <string name="matrix_org_server_url" translatable="false">https://matrix.mandegar.ir</string>
 
     <!-- Rageshake configuration -->
     <string name="bug_report_url" translatable="false">https://rageshakes.element.io/api/submit</string>
@@ -27,10 +27,10 @@
     <string name="pusher_app_id" translatable="false">im.vector.app.android</string>
 
     <!-- preferred jitsi domain -->
-    <string name="preferred_jitsi_domain" translatable="false">meet.managap.ir</string>
+    <string name="preferred_jitsi_domain" translatable="false">meet.mandegar.ir</string>
 
     <string-array name="room_directory_servers" translatable="false">
-        <item>matrix.managap.ir</item>
+        <item>matrix.mandegar.ir</item>
         <!-- <item>matrix.org</item> -->
         <!-- <item>gitter.im</item> -->
     </string-array>
@@ -39,7 +39,7 @@
     <string-array name="permalink_supported_hosts" translatable="false">
         <!-- Regular Element Web instance -->
         <!-- <item>app.element.io</item> -->
-        <item>web.managap.ir</item>
+        <item>web.mandegar.ir</item>
         <!-- Other known instances of Element Web -->
         <!-- <item>develop.element.io</item> -->
         <!-- <item>staging.element.io</item> -->

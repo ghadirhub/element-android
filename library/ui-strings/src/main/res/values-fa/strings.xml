@@ -2238,7 +2238,7 @@
     <string name="a11y_presence_online">برخط</string>
     <string name="login_error_homeserver_from_url_not_found_enter_manual">گزینش کارساز خانگی</string>
     <string name="login_error_homeserver_from_url_not_found">نتوانست در نشانی %s به کارساز خاتگی‌ای برسد. لطفاً پیوندتان را بررسی کرده یا کارساز خانگی‌ای را به صورت دستی برگزینید.</string>
-    <string name="notification_listening_for_notifications">شنود کردن برای آگاهی‌ها</string>
+    <string name="notification_listening_for_notifications">در انتظار برای آگاهی‌ها</string>
     <plurals name="create_poll_not_enough_options_error">
         <item quantity="one">کمینه %1$s گزینه لازم است</item>
         <item quantity="other">کمینه %1$s گزینه لازم است</item>

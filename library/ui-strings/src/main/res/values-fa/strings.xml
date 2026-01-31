@@ -317,7 +317,7 @@
     <string name="view_decrypted_source">مشاهده منبع رمزگشایی شده</string>
     <string name="auth_recaptcha_message">این کارساز خانگی می‌خواهد مطمئن شود که روبات نیستید</string>
     <string name="e2e_re_request_encryption_key"><u>بازدرخواست کلیدهای رمزنگاری</u> از دیگر نشست‌هایتان.</string>
-    <string name="e2e_re_request_encryption_key_dialog_content">لطفاً آوای ماندگار را روی افزاره‌ای دیگر که می‌تواند پیام را رمزگشایی کند، اجرا کنید تا بتواند کلیدها را به این نشست بفرستد.</string>
+    <string name="e2e_re_request_encryption_key_dialog_content">لطفاً آوا پیام را روی افزاره‌ای دیگر که می‌تواند پیام را رمزگشایی کند، اجرا کنید تا بتواند کلیدها را به این نشست بفرستد.</string>
     <string name="keys_backup_setup_skip_title">آیا مطمئن هستید؟</string>
     <string name="action_disconnect">قطع اتصال</string>
     <string name="action_decline">نپذیرفتن</string>
@@ -338,7 +338,7 @@
 \nلطفاً تتظیمات حساب را بررسی کنید.</string>
     <string name="settings_troubleshoot_test_device_settings_success">آگاهی‌ها برای این نشست به کار افتاده‌اند.</string>
     <string name="settings_troubleshoot_test_device_settings_failed">آگاهی‌ها برای این نشست به کار نیفتاده‌اند.
-\nلطفاً تنظیمات آوای ماندگار را بررسی کنید.</string>
+\nلطفاً تنظیمات آوا پیام را بررسی کنید.</string>
     <string name="settings_troubleshoot_test_bing_settings_failed">برخی آگاهی‌ها در تنظیمات سفارشیتان از کار افتاده‌اند.</string>
     <string name="settings_enable_all_notif">به کار انداختن آگاهی‌ها برای این حساب</string>
     <string name="settings_enable_this_device">به کار انداختن آگاهی‌ها برای این نشست</string>
@@ -507,7 +507,7 @@
     <string name="login_error_bad_json">JSON ناهنجار</string>
     <string name="login_error_not_json">شامل یک JSON معتبر نبود</string>
     <string name="login_error_limit_exceeded">درخواست‌های بیش از حد ارسال شده</string>
-    <string name="settings_call_ringtone_use_app_ringtone">استفاده از صدای زنگ پیش‌گزیدهٔ آوای ماندگار برای تماس‌های ورودی</string>
+    <string name="settings_call_ringtone_use_app_ringtone">استفاده از صدای زنگ پیش‌گزیدهٔ آوا پیام برای تماس‌های ورودی</string>
     <string name="settings_call_ringtone_title">صدای زنگ تماس ورودی</string>
     <string name="settings_call_ringtone_dialog_title">گزینش صدای زنگ برای تماس‌ها:</string>
     <string name="permissions_rationale_popup_title">اطلاعات</string>
@@ -550,7 +550,7 @@
     <string name="call_notification_answer">پذیرش</string>
     <string name="call_notification_reject">رد</string>
     <string name="call_notification_hangup">قطع</string>
-    <string name="call_failed_no_connection">تماس آوای ماندگار شکست خورد</string>
+    <string name="call_failed_no_connection">تماس آوا پیام شکست خورد</string>
     <string name="call_select_sound_device">گزینش افزارهٔ صوتی</string>
     <string name="sound_device_phone">تلفن</string>
     <string name="sound_device_speaker">بلندگو</string>
@@ -612,14 +612,14 @@
     <string name="settings_troubleshoot_test_service_boot_success">خدمت هنگام شروع دوبارهٔ افزاره، شروع خواهد شد.</string>
     <string name="settings_troubleshoot_test_service_boot_quickfix">به کار اندازی شروع هنگام راه‌اندازی</string>
     <string name="settings_troubleshoot_test_bg_restricted_title">بررسی محدودیت‌های پس‌زمینه</string>
-    <string name="settings_troubleshoot_test_bg_restricted_success">محدودیت‌های پس‌زمینه برای آوای ماندگار از کار افتاده‌اند. این آزمون باید با استفاده از دادهٔ همراه (بدون وای‌فای) اجرا شود.
+    <string name="settings_troubleshoot_test_bg_restricted_success">محدودیت‌های پس‌زمینه برای آوا پیام از کار افتاده‌اند. این آزمون باید با استفاده از دادهٔ همراه (بدون وای‌فای) اجرا شود.
 \n%1$s</string>
     <string name="settings_troubleshoot_test_bg_restricted_failed">محدودیت‌های پس‌زمینه برای النت به کار افتاده‌اند.
 \nکارهایی که کاره می‌خواهد انجام دهد، هنگامی که در پس‌زمینه است به صورت تهاجمی محدود می‌شوند که می‌تواند روی آگاهی‌ها تأثیر بگذارد.
 \n%1$s</string>
     <string name="settings_troubleshoot_test_bg_restricted_quickfix">از کار انداختن محدودیت‌ها</string>
     <string name="settings_troubleshoot_test_battery_title">بهینه‌سازی باتری</string>
-    <string name="settings_troubleshoot_test_battery_success">آوای ماندگار تحت تأثیر بهینه‌سازی باتری نیست.</string>
+    <string name="settings_troubleshoot_test_battery_success">آوا پیام تحت تأثیر بهینه‌سازی باتری نیست.</string>
     <string name="settings_troubleshoot_test_battery_quickfix">نادیده‌گرفتن بهینه‌سازی</string>
     <string name="settings_notification_ringtone">صدای آگاهی</string>
     <string name="settings_system_preferences_summary">گزینش رنگ چراغ، لرزش، صدا و…</string>
@@ -851,13 +851,13 @@
     <string name="login_server_other_title">دیگر</string>
     <string name="login_continue">ادامه</string>
     <string name="login_connect_to">وصل شدن به %1$s</string>
-    <string name="login_connect_to_modular">وصل شدن به حدمات ماتریکس آوای ماندگار</string>
+    <string name="login_connect_to_modular">وصل شدن به حدمات ماتریکس آوا پیام</string>
     <string name="login_connect_to_a_custom_server">وصل شدن به یک کارساز سفارشی</string>
     <string name="login_signin_to">ورود به %1$s</string>
     <string name="login_signup">نام‌نویسی</string>
     <string name="login_signin">ورود</string>
     <string name="login_signin_sso">ادامه با ورود یکپارچه</string>
-    <string name="login_server_url_form_modular_hint">نشانی خدمات ماتریکس آوای ماندگار</string>
+    <string name="login_server_url_form_modular_hint">نشانی خدمات ماتریکس آوا پیام</string>
     <string name="login_server_url_form_other_hint">نشانی</string>
     <string name="login_server_url_form_modular_text">میزبانی حرفه‌ای برای سازمان‌ها</string>
     <string name="login_reset_password_email_hint">رایانامه</string>
@@ -905,7 +905,7 @@
     <string name="devices_current_device">نشست جاری</string>
     <string name="autocomplete_limited_results">فقط نمایش نخستین نتایج. حرف‌های بیش‌تری بنویسید…</string>
     <string name="settings_developer_mode_fail_fast_title">شکست سریع</string>
-    <string name="settings_developer_mode_fail_fast_summary">آوای ماندگار ممکن است هنگام رخ دادن خطای نامنتظره،‌بیش‌تر فروبپاشد</string>
+    <string name="settings_developer_mode_fail_fast_summary">آوا پیام ممکن است هنگام رخ دادن خطای نامنتظره،‌بیش‌تر فروبپاشد</string>
     <string name="create_room_encryption_title">به کار انداختن رمزنگاری</string>
     <string name="create_room_encryption_description">پس از به کار افتادن، رمزنگاری قابل از کار انداختن نیست.</string>
     <string name="verification_conclusion_warning">ورود نامطمئن</string>
@@ -1023,10 +1023,10 @@
     <string name="bootstrap_migration_backup_recovery_key">کلید بازیابی پشتیبان کلید</string>
     <string name="settings_security_prevent_screenshots_title">جلوگیری از نماگرفت کاره</string>
     <string name="settings_security_prevent_screenshots_summary">به کار انداختن این انتخاب، FLAG_SECURE را به تمامی فعّالیت‌ها می‌افزاید. برای اثرگذاری تغییر، برنامه را دوباره شروع کنید.</string>
-    <string name="app_desktop_web">آوای ماندگار وب
-\nآوای ماندگار میزکار</string>
-    <string name="app_ios_android">آوای ماندگار آی‌اواس
-\nآوای ماندگار اندروید</string>
+    <string name="app_desktop_web">آوا پیام وب
+\nآوا پیام میزکار</string>
+    <string name="app_ios_android">آوا پیام آی‌اواس
+\nآوا پیام اندروید</string>
     <string name="use_recovery_key">استفاده از کلید بازیابی</string>
     <string name="encrypted_unverified">رمزشده به دست افزاره‌ای تأییدنشده</string>
     <string name="error_empty_field_choose_user_name">لطفاً نام کاربری‌ای برگزینید.</string>
@@ -1098,7 +1098,7 @@
     <string name="security_prompt_text">خوتان و دیگران را برای امن نگه داشتن گپ‌هایتان تأیید کنید</string>
     <string name="enter_secret_storage_passphrase_or_key">برای ادامه از %1$s یا %2$sتان استفاده کنید.</string>
     <string name="command_description_discard_session_not_handled">پشتیبانی‌شده فقط در اتاق‌های رمزشده</string>
-    <string name="use_latest_app">از آخرین نگارش آوای ماندگار روی دیگر افزاره‌تان استفاده کنید:</string>
+    <string name="use_latest_app">از آخرین نگارش آوا پیام روی دیگر افزاره‌تان استفاده کنید:</string>
     <string name="or_other_mx_capable_client">یا دیگر کاره‌های ماتریکس دادای قابلیت ورود چندگانه</string>
     <string name="cross_signing_verify_by_text">تأیید دستی با متن</string>
     <string name="verify_this_session">تأیید ورود جدیدی که به حسابتان دسترسی دارد: %1$s</string>
@@ -1115,7 +1115,7 @@
     <string name="bottom_sheet_setup_secure_backup_security_key_title">استفاده از یک کلید امنیتی</string>
     <string name="bottom_sheet_setup_secure_backup_submit">برپا سازی</string>
     <string name="disclaimer_content">مشتاقیم اعلام کنیم که ناممان را عوض کردیم! کاره‌تان به‌روز شده و وارد حسابتان شده‌اید.</string>
-    <string name="disclaimer_title">ریوت اکنون آوای ماندگار است!</string>
+    <string name="disclaimer_title">ریوت اکنون آوا پیام است!</string>
     <string name="notice_crypto_unable_to_decrypt_merged">در انتظار تاریخچهٔ رمزنگاری</string>
     <string name="crypto_error_withheld_generic">به خاطر این که فرستنده از قصد کلیدها را نفرستاده است، نمی‌توانید به این پیام دسترسی داشته باشید</string>
     <string name="crypto_error_withheld_unverified">به خاطر این که نشستتان به دست فرستنده مطمئن نیست، نمی‌توانید به این پیام دسترسی داشته باشید</string>
@@ -1141,13 +1141,13 @@
     <string name="alert_push_are_disabled_description">برای به کار انداختن ارسال آگاهی‌ها، تنظیماتتان را بازبینی کنید</string>
     <string name="room_error_not_found">نمی‌توان این اتاق را یافت. مطمئن شوید وجود دارد.</string>
     <string name="error_opening_banned_room">نمی‌توان اتاقی را که از آن تحریم شده‌اید، گشود.</string>
-    <string name="settings_security_pin_code_grace_period_summary_off">نیاز به رمز پین، هر بار که آوای ماندگار را می‌گشایید.</string>
-    <string name="settings_security_pin_code_grace_period_summary_on">نیاز به رمز پین، ۲ دقیقه پس از استفاده نشدن از آوای ماندگار.</string>
+    <string name="settings_security_pin_code_grace_period_summary_off">نیاز به رمز پین، هر بار که آوا پیام را می‌گشایید.</string>
+    <string name="settings_security_pin_code_grace_period_summary_on">نیاز به رمز پین، ۲ دقیقه پس از استفاده نشدن از آوا پیام.</string>
     <string name="settings_security_pin_code_grace_period_title">نیاز به پین پس از ۲ دقیقه</string>
     <string name="settings_security_pin_code_notifications_summary_off">فقط نمایش تعداد پیام‌های نخوانده در یک آگاهی ساده.</string>
     <string name="settings_security_pin_code_notifications_summary_on">نمایش جزییاتی چون نام اتاق‌ها و محتوای پیام.</string>
     <string name="settings_security_pin_code_notifications_title">نمایش محتوا در آگاهی‌ها</string>
-    <string name="settings_security_pin_code_use_biometrics_summary_off">کد پین، تنها راه قفل‌گشایی آوای ماندگار است.</string>
+    <string name="settings_security_pin_code_use_biometrics_summary_off">کد پین، تنها راه قفل‌گشایی آوا پیام است.</string>
     <string name="settings_security_pin_code_use_biometrics_summary_on">به کار انداختن زیست‌سنجی‌های مختص افزاره، مانند اثرانگشت‌ها و تشخیص چهره.</string>
     <string name="settings_security_pin_code_use_biometrics_title">به کار انداختن زیست‌سنجی‌ها</string>
     <string name="settings_security_pin_code_summary">اگر می‌خواهید پینتان را بازنشانی کنید، فراموشی پین را برای خروج و بازنشانی بزنید.</string>
@@ -1185,12 +1185,12 @@
     <string name="settings_show_join_leave_messages_summary">دعوت‌ها، برداشتن‌ها و انسدادها تأثیر نمی‌پذیرند.</string>
     <string name="settings_show_join_leave_messages">نمایش پیام‌های پیوستن و ترک اتاق</string>
     <string name="settings_inline_url_preview_summary">پیش‌نمایشی از آدرس‌های URL در پیام‌ها نمایش داده شود.</string>
-    <string name="settings_background_fdroid_sync_mode_real_time_description">آوای ماندگار بصورت دوره‌ای و در بازه‌های قابل تنظیم در پس زمینه همگام‌سازی می شود.
-\nاین بر مصرف باتری شما تأثیر می‌گذارد، یک اعلان دائمی نمایش داده می‌شود که آوای ماندگار برای رویدادها گوش می‌دهد.</string>
-    <string name="settings_background_fdroid_sync_mode_battery_description">آوای ماندگار در پس زمینه همگام‌سازی می‌کند به گونه ای که منابع محدود دستگاه (باتری) حفظ می‌شود.
+    <string name="settings_background_fdroid_sync_mode_real_time_description">آوا پیام بصورت دوره‌ای و در بازه‌های قابل تنظیم در پس زمینه همگام‌سازی می شود.
+\nاین بر مصرف باتری شما تأثیر می‌گذارد، یک اعلان دائمی نمایش داده می‌شود که آوا پیام برای رویدادها گوش می‌دهد.</string>
+    <string name="settings_background_fdroid_sync_mode_battery_description">آوا پیام در پس زمینه همگام‌سازی می‌کند به گونه ای که منابع محدود دستگاه (باتری) حفظ می‌شود.
 \nبسته به شارژ گوشی شما، ممکن است همگام‌سازی توسط سیستم‌عامل به تعویق بیوفتد.</string>
     <string name="settings_troubleshoot_test_battery_failed">اگر دستگاه برای مدتی از شارژر جدا باشد و از دستگاه نیز استفاده نشود، گوشی وارد حالت غیر هوشیار می‌شود. در این حالت از دسترسی برنامه‌ها به اینترنت جلوگیری می‌شود و همگام سازی و هشدارهای استاندارد آن‌ها به تعویق می‌افتد.</string>
-    <string name="settings_troubleshoot_test_service_boot_failed">خدمت، هنگام شروع دوبارهٔ افزاره اجرا نخواهد شد. تا وقتی یک بار آوای ماندگار باز نشود، آگاهی‌ها را دریافت نخواهید کرد.</string>
+    <string name="settings_troubleshoot_test_service_boot_failed">خدمت، هنگام شروع دوبارهٔ افزاره اجرا نخواهد شد. تا وقتی یک بار آوا پیام باز نشود، آگاهی‌ها را دریافت نخواهید کرد.</string>
     <string name="settings_troubleshoot_test_notification_notification_clicked">روی آگاهی کلیک شد!</string>
     <string name="settings_troubleshoot_test_notification_notice">لطفاً روی آگاهی کلیک کنید. اگر آگاهی را نمی‌بینید، لطفاً تنظیمات سامانه را بررسی کنید.</string>
     <string name="settings_troubleshoot_test_notification_title">نمایش آگاهی</string>
@@ -1216,7 +1216,7 @@
 \n%1$s</string>
     <string name="settings_troubleshoot_test_fcm_title">ژتون فایربیس</string>
     <string name="settings_troubleshoot_test_play_services_quickfix">مشکل Google Play Services را برطرف کنید</string>
-    <string name="settings_troubleshoot_test_play_services_failed">آوای ماندگار برای ارسال آگاهی‌ها از خدمات پلی گوگل استفاده می‌کند اما به نظر می‌رسد به درستی پیکربندی نشده است:
+    <string name="settings_troubleshoot_test_play_services_failed">آوا پیام برای ارسال آگاهی‌ها از خدمات پلی گوگل استفاده می‌کند اما به نظر می‌رسد به درستی پیکربندی نشده است:
 \n%1$s</string>
     <string name="settings_troubleshoot_test_play_services_success">Google Play Services در دسترس و بروز است.</string>
     <string name="settings_troubleshoot_diagnostic_success_status">عیب‌یابی اولیه مشکلی را نشان نمی‌دهد. اگر همچنان در دریافت آگاهی‌ها مشکل دارید، لطفا خطا را گزارش کرده تا آن را بررسی کنیم.</string>
@@ -1252,10 +1252,10 @@
     <string name="room_participants_power_level_demote_warning_title">تنزل نقش شما در اتاق؟</string>
     <string name="room_participants_power_level_prompt">شما نمی‌توانید این تغییر را بازگردانید. زیرا در حال ارتقای سطح کاربر دیگر به سطح خودتان هستید.
 \nآیا مطمئن هستید؟</string>
-    <string name="permissions_rationale_msg_camera_and_audio">آوای ماندگار برای برقراری تماس تصویری نیازمند دسترسی به میکروفون و دوربین است.
+    <string name="permissions_rationale_msg_camera_and_audio">آوا پیام برای برقراری تماس تصویری نیازمند دسترسی به میکروفون و دوربین است.
 \n
 \nلطفا در پنجره های بعدی دسترسی های لازم را بدهید.</string>
-    <string name="permissions_rationale_msg_record_audio">آوای ماندگار برای برقراری تماس صوتی نیازمند دسترسی به میکروفون است.</string>
+    <string name="permissions_rationale_msg_record_audio">آوا پیام برای برقراری تماس صوتی نیازمند دسترسی به میکروفون است.</string>
     <string name="login_error_ssl_peer_unverified">خطای SSL: هویت طرف مقابل تأیید نشد.</string>
     <string name="call_failed_no_connection_description">شکست در برقراری ارتباط همزمان.
 \nلطاً از مدیر کارساز بخواهید برای برقراری مطمئن تماس‌ها، کارساز turn را پیکربندی کند.</string>
@@ -1267,7 +1267,7 @@
     <string name="failed_to_access_secure_storage">دسترسی به حافظه امن انجام نشد</string>
     <string name="enter_secret_storage_input_key">کلید پشتیبان خود را انتخاب کنید، یا با تایپ کردن و یا کپی‌کردن، آن را وارد کنید</string>
     <string name="command_description_discard_session">نشست‌های خارجی را مجبور به ترک گروه می‌کند</string>
-    <string name="use_other_session_content_description">از آخرین نسخه‌ی آوای ماندگار روی دستگاه‌های دیگرتان استفاده کنید: نسخه وب آوای ماندگار، نسخه دسکتاپ آوای ماندگار، نسخه IOS آوای ماندگار و نسخه اندروید آوای ماندگار</string>
+    <string name="use_other_session_content_description">از آخرین نسخه‌ی آوا پیام روی دستگاه‌های دیگرتان استفاده کنید: نسخه وب آوا پیام، نسخه دسکتاپ آوا پیام، نسخه IOS آوا پیام و نسخه اندروید آوا پیام</string>
     <string name="change_password_summary">تنظیم گذرواژه جدید…</string>
     <string name="error_saving_media_file">فایل رسانه ذخیره نشد</string>
     <string name="bootstrap_migration_with_passphrase_helper_with_link">کلید امنیتی خود را نمی‌دانید، شما می‌توانید %s.</string>
@@ -1339,8 +1339,8 @@
     <string name="command_description_rainbow">پیام را با رنگ‌بندی رنگین کمان ارسال می کند</string>
     <string name="verify_cannot_cross_sign">این نشست نمی‌تواند این تائید را با دیگر نشست‌هایتان هم‌رسانی کند.
 \nتائید به صورت محلی ذخیره شده و در نگارشی جدیدتر از کاره هم‌رسانی خواهد شد.</string>
-    <string name="rendering_event_error_exception">آوای ماندگار هنگام ارائه محتوای رویدادی با شناسه \'%1$s\' با مشکل روبرو شد</string>
-    <string name="rendering_event_error_type_of_event_not_handled">آوای ماندگار رویداد \'%1$s\' را پشتیبانی نمی‌کند</string>
+    <string name="rendering_event_error_exception">آوا پیام هنگام ارائه محتوای رویدادی با شناسه \'%1$s\' با مشکل روبرو شد</string>
+    <string name="rendering_event_error_type_of_event_not_handled">آوا پیام رویداد \'%1$s\' را پشتیبانی نمی‌کند</string>
     <string name="verification_conclusion_compromised">ممکن است یکی از موارد زیر به خطر افتاده باشد:
 \n
 \n- کارساز خانگیتان
@@ -1350,7 +1350,7 @@
     <string name="login_error_threepid_denied">دامنهٔ رایانامه‌تان مجاز به ثبت‌نام روی این کارساز نیست</string>
     <string name="command_description_shrug">¯\\\\_(ツ)_/¯ را به یک پیام متنی ساده تغییر می دهد</string>
     <string name="permalink_malformed">پیوند ‪matrix.to‬تان بدریخت است</string>
-    <string name="soft_logout_sso_not_same_user_error">نشست فعلی مربوط به کاربر %1$s است و شما اطلاعات حساب کاربر %2$s را ارائه داده‌اید. این مورد توسط آوای ماندگار پشتیبانی نمی‌شود .
+    <string name="soft_logout_sso_not_same_user_error">نشست فعلی مربوط به کاربر %1$s است و شما اطلاعات حساب کاربر %2$s را ارائه داده‌اید. این مورد توسط آوا پیام پشتیبانی نمی‌شود .
 \nلطفا ابتدا داده ها را پاک کنید، سپس با یک حساب دیگر وارد برنامه شوید.</string>
     <string name="soft_logout_clear_data_dialog_e2e_warning_content">دسترسی به پیام‌های رمزشده را از دست خواهید داد مگر اینکه برای بازیابی کلیدهای رمزگذاری خود، به حساب خود وارد شوید.</string>
     <string name="soft_logout_clear_data_dialog_content">آیا تمامی اطلاعات ذخیره‌شده در این دستگاه پاک شود؟
@@ -1384,7 +1384,7 @@
     <string name="login_terms_title">برای ادامه، شرایط را قبول کنید</string>
     <string name="login_a11y_captcha_container">لطفا کپچا را حل کنید</string>
     <string name="login_a11y_choose_other">گزینش یک کارساز خانگی سفارشی</string>
-    <string name="login_a11y_choose_modular">گزینش خدمات ماتریکس آوای ماندگار</string>
+    <string name="login_a11y_choose_modular">گزینش خدمات ماتریکس آوا پیام</string>
     <string name="login_a11y_choose_matrix_org">انتخاب matrix.org</string>
     <string name="login_signup_cancel_confirmation_content">حسابتان هنوز ایجاد نشده. توقّف فرآیند ثبت‌نام؟</string>
     <string name="login_signin_username_hint">نام‌کاربری یا رایانامه</string>
@@ -1416,7 +1416,7 @@
 \nمی‌خواهید با یک کارخواه وب وارد شوید؟</string>
     <string name="login_sso_error_message">هنگام بارگیری صفحه، خطایی روی داد: %1$s (%2$d)</string>
     <string name="login_server_url_form_common_notice">نشانی کارسازی که می‌خواهید استفاده کنید را وارد کنید</string>
-    <string name="login_server_url_form_modular_notice">نشانی کارساز یا آوای ماندگار ماژولاری که می‌خواهید استفاده کنید را وارد کنید</string>
+    <string name="login_server_url_form_modular_notice">نشانی کارساز یا آوا پیام ماژولاری که می‌خواهید استفاده کنید را وارد کنید</string>
     <string name="login_server_matrix_org_text">به میلیون‌ها نفر در بزرگ‌ترین کارساز عمومی بپیوندید</string>
     <string name="login_server_text">درست مانند رایانامه، حساب‌ها یک خانه دارند؛ گرچه می توانید با هر کسی صحبت کنید</string>
     <string name="login_server_title">کارسازی برگزینید</string>
@@ -1573,7 +1573,7 @@
     <string name="keys_backup_setup_step1_description">پیام‌‌ها در اتاق‌های رمزشده، با رمزنگاری سرتاسری امن شده‌اند. فقط شما و گیرنده(ها) کلیدهای خواندم این پیام‌ها را دارید.
 \n
 \nبرای جلوگیری از گم کردن کلیدهایتان، از آن‌ها به صورت امن، پشتیبان بگیرید.</string>
-    <string name="keys_backup_passphrase_not_empty_error_message">اگر می خواهید آوای ماندگار یک کلید بازیابی ایجاد کند، لطفاً عبارت عبور را حذف کنید.</string>
+    <string name="keys_backup_passphrase_not_empty_error_message">اگر می خواهید آوا پیام یک کلید بازیابی ایجاد کند، لطفاً عبارت عبور را حذف کنید.</string>
     <string name="passphrase_passphrase_too_weak">عبارت عبور بیش از حد ضعیف است</string>
     <string name="passphrase_empty_error_message">لطفاً عبارت عبوری وارد کنید</string>
     <string name="passphrase_passphrase_does_not_match">عبارت عبور، مطابق نبود</string>
@@ -1661,7 +1661,7 @@
     <string name="devices_details_name_title">نام عمومی</string>
     <string name="devices_details_device_name">به‌روزرسانی نام عمومی</string>
     <string name="devices_details_id_title">شناسه</string>
-    <string name="settings_opt_in_of_analytics_summary">آوای ماندگار اطلاعاتی را جمع آوری می کند و با ارسال آنان به صورت ناشناس به ما امکان بهبود برنامه را می‌دهد.</string>
+    <string name="settings_opt_in_of_analytics_summary">آوا پیام اطلاعاتی را جمع آوری می کند و با ارسال آنان به صورت ناشناس به ما امکان بهبود برنامه را می‌دهد.</string>
     <string name="settings_opt_in_of_analytics">ارسال داده های تجزیه و تحلیل</string>
     <string name="settings_analytics">تجزیه و تحلیل</string>
     <string name="identity_server_error_binding_error">تخصیص شکست خورد.</string>
@@ -1697,14 +1697,14 @@
     <string name="identity_server_user_consent_not_provided">رضایت کاربر فراهم نشده است.</string>
     <string name="identity_server_error_terms_not_signed">لطفاً نخست شرایط کارساز هویت را در تنظیمات بپذیرید.</string>
     <string name="identity_server_error_no_identity_server_configured">لطفاً نخست کارساز هویتی را پیکربندی کنید.</string>
-    <string name="identity_server_error_outdated_identity_server">کارساز هویت منقضی شده اسن. آوای ماندگار تنها نگارش ۲ از API را پشتیبانی می‌کند.</string>
+    <string name="identity_server_error_outdated_identity_server">کارساز هویت منقضی شده اسن. آوا پیام تنها نگارش ۲ از API را پشتیبانی می‌کند.</string>
     <string name="user_code_info_text">این رمز را افراد هم‌رسانی کرده تا بتوانند برای افزودنتان و شروع گپ، بپویندش.</string>
     <string name="user_code_my_code">رمزم</string>
     <string name="user_code_share">هم‌رسانی رمزم</string>
     <string name="user_code_scan">پویش یک رمز QR</string>
     <string name="not_a_valid_qr_code">این یک رمز QR ماتریکس معتبر نیست</string>
-    <string name="invite_friends_rich_title">🔐️ پیوستن به من روی آوای ماندگار</string>
-    <string name="invite_friends_text">سلام. روی آوای ماندگار باهام حرف بزن: %s</string>
+    <string name="invite_friends_rich_title">🔐️ پیوستن به من روی آوا پیام</string>
+    <string name="invite_friends_text">سلام. روی آوا پیام باهام حرف بزن: %s</string>
     <string name="invite_friends">دعوت دوستان</string>
     <string name="add_people">افزودن افراد</string>
     <string name="topic_prefix">"موضوع: "</string>
@@ -2134,7 +2134,7 @@
     <string name="settings_notification_other">دیگر</string>
     <string name="settings_notification_mentions_and_keywords">اشاره‌ها و کلیدواژگان</string>
     <string name="settings_notification_default">آگاهی‌های پیش‌گزیده</string>
-    <string name="link_this_email_with_your_account">%s در تنظیمات برای دریافت مستقیم دعوت‌ها در آوای ماندگار.</string>
+    <string name="link_this_email_with_your_account">%s در تنظیمات برای دریافت مستقیم دعوت‌ها در آوا پیام.</string>
     <string name="link_this_email_settings_link">پیوند این نشانی رایانامه به حسابتان</string>
     <string name="this_invite_to_this_space_was_sent">این دعوت به این فضا به %s فرستاده شده که با حسابتان در ارتباط نیست</string>
     <string name="this_invite_to_this_room_was_sent">این دعوت به این اتاق به %s فرستاده شده که با حسابتان در ارتباط نیست</string>
@@ -2259,7 +2259,7 @@
     <string name="identity_server_consent_dialog_content_question">با فرستادن این اطّلاعات موافقید؟</string>
     <string name="action_not_now">اکنون نه</string>
     <string name="identity_server_consent_dialog_content_3">برای کشف آشنایان موجود، لازم است اطلاعات آشنایان (نشانی‌های رایانامه و شماره‌های تلفن) را به کارساز هویتتان بفرستید. برای محرمانگیتان، داده‌هایتان را پیش از فرستادن، در هم می‌ریزیم.</string>
-    <string name="analytics_opt_in_content">با هم‌رسانی داده‌ّای استفادهٔ ناشناس، در تشخیص مشکل‌ها و بهبود آوای ماندگار یاریمان کنید. برای درک چگونگی استفادهٔ مردم از چندین افزاره، شناسه‌ای کاتوره‌ای بین افزاره‌هایتان هم‌رسانی خواهیم کرد.
+    <string name="analytics_opt_in_content">با هم‌رسانی داده‌ّای استفادهٔ ناشناس، در تشخیص مشکل‌ها و بهبود آوا پیام یاریمان کنید. برای درک چگونگی استفادهٔ مردم از چندین افزاره، شناسه‌ای کاتوره‌ای بین افزاره‌هایتان هم‌رسانی خواهیم کرد.
 \n
 \nمی‌توانید از %s قوانینمان را بخوانید.</string>
     <string name="delete_poll_dialog_content">مطمئنید که می خواهید این نظرسنجی را بردارید؟ پس از این کار، قادر به بازگردانیش نیستید.</string>
@@ -2288,7 +2288,7 @@
     </plurals>
     <string name="preference_system_settings">تنظیمات سامانه</string>
     <string name="preference_versions">نگارش‌ها</string>
-    <string name="preference_help_summary">کمک در استفاده از آوای ماندگار</string>
+    <string name="preference_help_summary">کمک در استفاده از آوا پیام</string>
     <string name="preference_help_title">کمک و پشتیانی</string>
     <string name="preference_help">کمک</string>
     <string name="preference_root_legals">موارد حقوقی</string>
@@ -2301,7 +2301,7 @@
     <string name="analytics_opt_in_list_item_2">ما اطّلاعات را با سوم‌شخص‌ها هم‌رسانی <b>نمی‌کنیم</b></string>
     <string name="analytics_opt_in_list_item_1">ما هیچ دادهٔ حسابی را ذخیره یا نمایه <b>نمی‌کنیم</b></string>
     <string name="analytics_opt_in_content_link">این‌جا</string>
-    <string name="analytics_opt_in_title">کمک به بهبود آوای ماندگار</string>
+    <string name="analytics_opt_in_title">کمک به بهبود آوا پیام</string>
     <string name="action_enable">به کار انداختن</string>
     <string name="restart_the_application_to_apply_changes">برای اثربخشی تغییر، برنامه را دوباره اجرا کنید.</string>
     <string name="labs_enable_latex_maths">به کار انداختن ریاضیات لاتک</string>
@@ -2558,7 +2558,7 @@
     <string name="ftue_auth_terms_subtitle">لطفاً شرایط و سیاست‌های %s را بخوانید</string>
     <string name="ftue_auth_terms_title">سیاست‌های کارساز</string>
     <string name="ftue_auth_choose_server_ems_cta">در ارتباط بمانید</string>
-    <string name="ftue_auth_choose_server_ems_subtitle">خدمات ماتریکسی آوای ماندگار (EMS) خدمتی مطمئن برای ارتباطات سریع، امن و زنده است. چگونگیش را در <a href="${ftue_ems_url}">element.io/ems</a> ببینید</string>
+    <string name="ftue_auth_choose_server_ems_subtitle">خدمات ماتریکسی آوا پیام (EMS) خدمتی مطمئن برای ارتباطات سریع، امن و زنده است. چگونگیش را در <a href="${ftue_ems_url}">element.io/ems</a> ببینید</string>
     <string name="ftue_auth_choose_server_ems_title">می‌خواهید کارساز خود را میزبانی کنید؟</string>
     <string name="ftue_auth_choose_server_entry_hint">نشانی کارساز</string>
     <string name="ftue_auth_choose_server_subtitle">نشانی کارسازتان چیست؟ چونان خانه‌ای برای تمامی داده‌هایتان است</string>
@@ -2575,7 +2575,7 @@
     <string name="font_size_section_auto">تنظیم خودکار</string>
     <string name="font_size_title">گزینش اندازهٔ قلم</string>
     <string name="labs_enable_element_call_permission_shortcuts_summary">تأیید خودکار ابزارک‌های تماس و اعطای دسترسی دوربین و میکروفون</string>
-    <string name="labs_enable_element_call_permission_shortcuts">به کار انداخت میان‌برهای اجازهٔ تماس آوای ماندگار</string>
+    <string name="labs_enable_element_call_permission_shortcuts">به کار انداخت میان‌برهای اجازهٔ تماس آوا پیام</string>
     <string name="live_location_description">مکان زنده</string>
     <string name="verify_invalid_qr_notice">این رمز QR بدریخت به نظر می‌رسد. لطفاً تأیید با روشی دیگر را بیازمایید.</string>
     <string name="crosssigning_cannot_verify_this_session_desc">نخواهید توانست به تاریخچهٔ پیام رمزشده دست یابید. برای آغاز تازه، کلیدهای تأیید و پشتیبان پیام امنتان را بازنشانی کنید.</string>
@@ -2690,7 +2690,7 @@
     <string name="device_manager_verification_status_detail_other_session_verified">این نشست برای پیام‌رسانی امن آماده است.</string>
     <string name="device_manager_verification_status_detail_current_session_verified">نشست کنونیتان برای پیام‌رسانی امن آماده است.</string>
     <string name="labs_enable_deferred_dm_summary">ایجاد پیام خصوصی فقط در نخستین پیام</string>
-    <string name="labs_enable_new_app_layout_summary">آوای ماندگاری ساده شده با زبانه‌های انتخابی</string>
+    <string name="labs_enable_new_app_layout_summary">آوا پیامی ساده شده با زبانه‌های انتخابی</string>
     <string name="labs_enable_new_app_layout_title">به کار انداختن چینش جدید</string>
     <string name="device_manager_other_sessions_recommendation_description_unverified">تأیید نشست‌هایتان برای پیام‌رسانی امن بهبود یافته یا خروج از آن‌هایی که تشخیصشان نداده یا دیگر استفاده نمی‌کنید.</string>
     <plurals name="device_manager_filter_option_inactive_description">
@@ -2968,7 +2968,7 @@
     <string name="user_reported_as_inappropriate_content">کاربر گزارش شد.
 \n
 \nاگر دیگر نمی‌خواهید محتوایی از این کاربر ببینید، می‌توانید برای نهفتن پیام‌هایش نادیده‌اش بگیرید.</string>
-    <string name="call_unsupported_matrix_rtc_call">تماس پشتیبانی نشده. برای پیوستن به این تماس نیاز به کارهٔ جدید آوای ماندگار اکس است.</string>
+    <string name="call_unsupported_matrix_rtc_call">تماس پشتیبانی نشده. برای پیوستن به این تماس نیاز به کارهٔ جدید آوا پیام اکس است.</string>
     <string name="microphone_in_use_title">صدابَر در حال استفاده</string>
     <string name="call_unsupported">تماس پشتیبانی نشده</string>
     <string name="error_mas_not_supported_subtitle">برای استفاده از %2$s برای حسابتان %1$s را گرفته یا کارساز خانگی دیگری را برگزینید.</string>

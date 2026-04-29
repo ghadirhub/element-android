@@ -92,7 +92,7 @@ data class RoomDetailViewState(
                 asyncRoomSummary.invoke()?.joinedMembersCount == 1
     }
 
-    fun isSearchAvailable() = asyncRoomSummary()?.isEncrypted == false
+    fun isSearchAvailable() = true
 
     // This checks directly on the active room widgets.
     // It can differs for a short period of time on the JitsiState as its computed async.

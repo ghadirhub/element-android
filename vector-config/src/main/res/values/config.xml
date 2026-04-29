@@ -5,8 +5,8 @@
 
     <!-- server urls -->
     <!-- <string name="matrix_org_server_url" translatable="false">https://matrix.org</string> -->
-    <!-- <string name="matrix_org_server_url" translatable="false">https://matrix.mandegar.ir</string> -->
-    <string name="matrix_org_server_url" translatable="false">http://matrix.mandegar.ir</string>
+    <!-- <string name="matrix_org_server_url" translatable="false">https://matrix.element.io</string> -->
+    <string name="matrix_org_server_url" translatable="false">https://sub.domain.com</string>
 
     <!-- Rageshake configuration -->
     <string name="bug_report_url" translatable="false">https://rageshakes.element.io/api/submit</string>

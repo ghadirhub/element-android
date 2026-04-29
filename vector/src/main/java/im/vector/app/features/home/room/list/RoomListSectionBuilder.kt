@@ -320,9 +320,33 @@ class RoomListSectionBuilder(
         withQueryParams(
                 {
                     it.memberships = Membership.activeMemberships()
+                    it.roomCategoryFilter = RoomCategoryFilter.ONLY_ROOMS
                 },
                 { queryParams ->
                     val name = stringProvider.getString(CommonStrings.bottom_action_rooms)
+                    val updatableFilterLivePageResult = session.roomService().getFilteredPagedRoomSummariesLive(queryParams)
+                    onUpdatable(updatableFilterLivePageResult)
+
+                    val itemCountFlow = updatableFilterLivePageResult.livePagedList.asFlow()
+                            .flatMapLatest { session.roomService().getRoomCountLive(updatableFilterLivePageResult.queryParams).asFlow() }
+                            .distinctUntilChanged()
+
+                    sections.add(
+                            RoomsSection(
+                                    sectionName = name,
+                                    livePages = updatableFilterLivePageResult.livePagedList,
+                                    itemCount = itemCountFlow
+                            )
+                    )
+                }
+        )
+        withQueryParams(
+                {
+                    it.memberships = Membership.activeMemberships()
+                    it.roomCategoryFilter = RoomCategoryFilter.ONLY_DM
+                },
+                { queryParams ->
+                    val name = stringProvider.getString(CommonStrings.bottom_action_people_x)
                     val updatableFilterLivePageResult = session.roomService().getFilteredPagedRoomSummariesLive(queryParams)
                     onUpdatable(updatableFilterLivePageResult)
 
